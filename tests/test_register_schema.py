@@ -6,7 +6,7 @@ import tempfile
 import jsonschema
 from datetime import datetime, timedelta
 import pytest
-from ruamel.yaml import YAML
+from ruamel_yaml import YAML
 
 from jupyter_telemetry.eventlog import EventLog
 
