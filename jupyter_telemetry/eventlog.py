@@ -7,7 +7,7 @@ from datetime import datetime
 
 import jsonschema
 from pythonjsonlogger import jsonlogger
-from ruamel.yaml import YAML
+from ruamel_yaml import YAML
 from traitlets import List
 from traitlets.config import Configurable, Config
 
